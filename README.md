@@ -1,4 +1,4 @@
-# Caos-Cont-bil
+# Caos-Contábil
 
 # 🏦 O Cofre do Banco: Correção de Condição de Corrida com Mutex (Windows API)
 
