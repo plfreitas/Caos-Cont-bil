@@ -2,7 +2,7 @@
 
 # 🏦 O Cofre do Banco: Correção de Condição de Corrida com Mutex (Windows API)
 
-## 🎯 Objetivo do Projeto
+## 🎯 Objetivo do Exercício
 
 Demonstrar a identificação, compreensão e correção de uma **Condição de Corrida (Race Condition)** em um programa C multithread, utilizando o mecanismo de sincronização **Mutex** da API do Windows.
 
